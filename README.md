@@ -2,7 +2,7 @@
 
 This repository is an Pytorch implementation of our proposed pre-training framework for popularity prediction in the following paper:
 
-[Qi Cao, Huawei Shen, Yuanhao Liu, Jinhua Gao, Xueqi Cheng. 2022. PREP: Pre-training with Temporal Elapse Inference for Popularity Prediction. In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event.]()
+[Qi Cao, Huawei Shen, Yuanhao Liu, Jinhua Gao, Xueqi Cheng. 2022. PREP: Pre-training with Temporal Elapse Inference for Popularity Prediction. In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event.](https://arxiv.org/abs/2108.06220)
 
 For more details, you can refer this paper.
 
